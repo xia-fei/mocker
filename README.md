@@ -1,2 +1,1 @@
-# mocker
-根据class对象随机生成实例
+# 迁移到canary-utils项目里 mock目录
