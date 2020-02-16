@@ -1,8 +1,8 @@
 package org.xiafei.mock.core;
 
 
-import org.wing.mocker.annotation.MockValue;
 import org.xiafei.mock.core.handler.*;
+import org.xiafei.mocke.annotation.MockValue;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;

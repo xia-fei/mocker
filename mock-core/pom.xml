@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.xiafei.mocke</groupId>
-    <artifactId>mock</artifactId>
+    <groupId>org.xiafei.mock</groupId>
+    <artifactId>mock-core</artifactId>
     <version>1.0</version>
     <dependencies>
         <dependency>
@@ -22,8 +22,8 @@
         </dependency>
 
         <dependency>
-            <groupId>org.wing.mocker</groupId>
-            <artifactId>annotation</artifactId>
+            <groupId>org.xiafei.mock</groupId>
+            <artifactId>mocke-annotation</artifactId>
             <version>1.0</version>
         </dependency>
         <dependency>

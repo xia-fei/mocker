@@ -9,9 +9,9 @@
     <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>mock-annotation</module>
-        <module>mock</module>
+        <module>mock-core</module>
     </modules>
     <packaging>pom</packaging>
-    <name>mocke-parent</name>
+    <name>mock-parent</name>
 
 </project>
